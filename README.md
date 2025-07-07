@@ -52,6 +52,6 @@ A full-stack web application to manage student test schedules, mark tracking, an
 ## Author
 
 **Archana N.**  
-Full Stack Developer | MCA | Computer Science Faculty  
+Full Stack Developer | MCA | java full stack developer
 GitHub: https://github.com/Archana0608
 
